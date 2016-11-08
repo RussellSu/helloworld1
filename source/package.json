@@ -1,0 +1,16 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "author": "Russell Su",
+  "license": "ISC"
+}
